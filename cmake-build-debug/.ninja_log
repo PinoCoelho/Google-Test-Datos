@@ -1,0 +1,5 @@
+# ninja log v5
+1	3686	7158601274613155	CMakeFiles/pruebatest.dir/main.cpp.obj	44ba7c06f9c22b20
+19	13996	7158601377160302	bin/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	2477ef537f1638bb
+14001	20087	7158601438642206	lib/libgtest.a	fd5401eaf6014b6d
+8	5134	7158603303408662	pruebatest.exe	2dedcad2427332c7
